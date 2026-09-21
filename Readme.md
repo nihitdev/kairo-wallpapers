@@ -1,38 +1,52 @@
-🖼️ Definitely-Not-Stolen Wallpapers
+# 🖼️ Kairo Wallpapers
 
-A collection of wallpapers I definitely did not steal 💀
+A curated wallpaper collection for **Kairo** and **Hyprland** desktops.
 
-Just my personal stash of wallpapers I've collected from across the internet because apparently having one wallpaper is impossible.
+This repository is my personal collection of wallpapers gathered over time for Linux desktops, ricing setups, and general desktop customization.
 
-📸 About
+## 📸 Collection
 
-This repo is basically:
+Expect a mix of:
 
-See cool wallpaper → download → forget where it came from → repeat.
+* 🌌 Space & landscapes
+* 🏔️ Nature
+* 🌃 Cities
+* 🎨 Minimal & abstract
+* 🐧 Linux & programming
+* 🌸 Anime
+* 💀 Random wallpapers that simply looked too good to ignore
 
-Expect random stuff like:
+The collection keeps growing whenever I find something worth keeping.
 
-🌌 Space & landscapes
-🏔️ Nature
-🌃 Cities
-🎨 Minimal / abstract
-🐧 Linux & programming
-🌸 Anime
-💀 Random images that looked cool
-⚠️ Disclaimer
+## 🐧 Usage
 
-I did not create most of these wallpapers.
+Clone the repository:
 
-All credit belongs to their original artists and creators. If you own something here and want it removed or properly credited, open an issue.
+```bash
+git clone https://github.com/nihitdev/kairo-wallpapers.git
+```
 
-🐧 Why does this exist?
+Then point your wallpaper manager at the cloned directory.
 
-Because my wallpaper folder got big enough that apparently it needed version control.
+Works nicely with tools and environments such as:
 
-git clone https://github.com/nihitdev/stolen-wallpapers
+* Hyprland
+* Niri
+* `swww`
+* `hyprpaper`
+* `mpvpaper`
+* other Linux wallpaper managers
 
-Then point your wallpaper manager at it and enjoy.
+## ⚠️ Credits
 
-⭐ Steal the repo that contains definitely-not-stolen wallpapers
+Most wallpapers in this repository were **not created by me**.
 
-198 wallpapers and counting... 💀
+All rights belong to their respective artists and creators.
+
+If you are the original creator of an image included here and would like it credited or removed, please open an issue.
+
+## ✨ Kairo
+
+This collection is maintained primarily for use with my **Kairo** desktop setup and related Linux configurations.
+
+198 wallpapers and counting.
